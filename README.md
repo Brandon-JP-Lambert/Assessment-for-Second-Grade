@@ -14,6 +14,15 @@ This repository includes:
 
 4. **Alternative Gap-Fill Exercise Creator**: A prompt to modify the gap-fill exercises by replacing something other than the answers with blanks.
 
+## Prompts
+```
+1. Write 5 word problems for second graders on how to tell time on a clock. Assume the use of a manipulative clock.
+2. Rewrite these to include the answer in the sentences (i.e., Susie wakes up at 7:30 in the morning. She brushes her teeth for 15 minutes. She finishes brushing her teeth at 7:45) 
+3. Rewrite the given sentences to include the answer in the sentences.
+4. Print each sentence with blanks for a gap-fill exercise.
+5. Now reprint using a blank for something else other than the answer in each.
+```
+
 ## Usage
 
 To use this repository:
